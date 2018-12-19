@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-skip-link",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin for adding a skip link to a page.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/opdavies/tailwindcss-skip-link"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwind-css",
+    "tailwindcss",
+    "tailwindcss-plugin"
+  ],
+  "author": "Oliver Davies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opdavies/tailwindcss-skip-link/issues"
+  },
+  "homepage": "https://github.com/opdavies/tailwindcss-skip-link#readme"
+}
