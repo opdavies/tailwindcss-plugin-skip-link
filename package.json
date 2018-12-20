@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-skip-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Tailwind CSS plugin for adding a skip link to a page.",
   "main": "index.js",
   "devDependencies": {},
