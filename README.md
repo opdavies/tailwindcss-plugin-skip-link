@@ -37,7 +37,7 @@ Then add the matching ID to skip to on your main content element.
 
 ## Example
 
-To see an example of this plugin in use, see the [oliverdavies.uk repository](https://github.com/opdavies/oliverdavies.uk).
+To see an example of this plugin in use, see the [oliverdavies.uk repository](https://github.com/opdavies/oliverdavies.uk) or the [rebuilding-bartik repository](https://github.com/opdavies/rebuilding-bartik).
 
 ## Author
 
