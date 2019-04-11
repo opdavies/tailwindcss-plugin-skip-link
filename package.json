@@ -3,9 +3,16 @@
   "version": "1.0.1",
   "description": "A Tailwind CSS plugin for adding a skip link to a page.",
   "main": "index.js",
-  "devDependencies": {},
+  "dependencies": {
+    "postcss": "^7.0.14",
+    "tailwindcss": "^1.0.0-beta.4"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "jest-matcher-css": "^1.0.3"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "url": "https://github.com/opdavies/tailwindcss-skip-link"
