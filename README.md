@@ -1,4 +1,4 @@
-# Tailwind CSS Skip Link plugin
+# Tailwind CSS Plugin: Skip Link
 
 ## Overview
 
