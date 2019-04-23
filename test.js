@@ -7,9 +7,7 @@ const tailwindcss = require('tailwindcss')
 const generatePluginCss = () => {
   return postcss(
     tailwindcss({
-      corePlugins: {
-        container: false
-      },
+      corePlugins: false,
       plugins: [plugin()]
     })
   )
