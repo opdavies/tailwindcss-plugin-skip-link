@@ -14,9 +14,7 @@ const generatePluginCss = () => {
   .process('@tailwind components;', {
     from: undefined
   })
-  .then(result => {
-    return result.css
-  })
+  .then(result => result.css)
 }
 
 expect.extend({
