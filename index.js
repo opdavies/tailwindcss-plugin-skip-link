@@ -14,8 +14,8 @@ module.exports = () => ({ addComponents }) => {
           height: 'auto',
           overflow: 'visible',
           width: 'auto',
-        },
-      },
-    },
+        }
+      }
+    }
   ])
 }
