@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "eslint": "^6.0.1",
-    "eslint-config-postcss": "^2.0.2",
+    "eslint-config-postcss": "^3.0.7",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-prettier": "^3.0.1",
     "jest": "^24.7.1",
