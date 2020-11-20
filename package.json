@@ -4,7 +4,7 @@
   "description": "A Tailwind CSS plugin for adding a skip link to a page.",
   "main": "index.js",
   "dependencies": {
-    "postcss": "^7.0.14",
+    "postcss": "^8.1.8",
     "tailwindcss": "^1.0.0-beta.5"
   },
   "devDependencies": {
